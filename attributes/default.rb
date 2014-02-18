@@ -4,11 +4,8 @@ default[:wal_e][:packages] = [
   "python-dev",
   "lzop",
   "pv",
-  "git",
-  "postgresql-client",
   "libevent-dev",
   "daemontools"
-
 ]
 
 default[:wal_e][:pips] = [
