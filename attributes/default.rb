@@ -17,7 +17,7 @@ default[:wal_e][:pips] = [
   "boto"
 ]
 
-default[:wal_e][:git_version]         = "v0.6.5"
+default[:wal_e][:git_revision]         = "v0.6.8"
 
 default[:wal_e][:env_dir]             = '/etc/wal-e'
 default[:wal_e][:aws_access_key]      = ''
